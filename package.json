@@ -1,0 +1,23 @@
+{
+    "main": "merkle.js",
+    "name": "merkle-bitcoin",
+    "version": "1.0.2",
+    "description": "Bitcoin-style merkle root generation.",
+    "homepage": "https://github.com/CryptoCyberCid/merkle-bitcoin",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/CryptoCyberCid/merkle-bitcoin.git"
+    },
+    "keywords": [
+        "merkle",
+        "bitcoin"
+    ],
+    "author": {
+        "name": "Olaf Wasilewski",
+        "email": "olaf.wasilewski@gmx.de"
+    },
+    "dependencies": {
+        "async": "^1.2.1"
+    },
+    "license": "MIT"
+}
